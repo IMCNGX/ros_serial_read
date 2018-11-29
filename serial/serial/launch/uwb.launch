@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="serial" type="uwb" name="uwb" output="screen">
+		<!-- node parameters -->
+	</node>
+</launch>
